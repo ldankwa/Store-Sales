@@ -1,1 +1,1 @@
-# Store-Sales
+Advanced Excel Mini project - Store sales

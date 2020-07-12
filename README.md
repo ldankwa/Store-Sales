@@ -1,1 +1,1 @@
-Advanced Excel Mini project - Store sales
+Analysis of sales trends and recommendations

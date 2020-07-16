@@ -1,1 +1,1 @@
-Analysis of sales trends and recommendations
+Analysis of sales trends and recommendations for Basic Sun Preparations
